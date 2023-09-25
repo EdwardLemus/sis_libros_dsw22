@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+//xd
 use App\Models\prestamos;
 use Illuminate\Http\Request;
 
