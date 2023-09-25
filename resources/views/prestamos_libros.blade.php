@@ -5,6 +5,7 @@
   <title>Formulario de préstamo</title>
 </head>
 <body>
+    <h1>ya lacaga yordi</h1>
   <h1>Formulario de préstamo</h1>
 
   <form action="enviar-prestamo.php" method="post">
