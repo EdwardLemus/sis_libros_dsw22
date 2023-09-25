@@ -2,10 +2,11 @@
 
 namespace App\Http\Controllers;
 
-//xd
+//xd qu
 use App\Models\prestamos;
 use Illuminate\Http\Request;
 
+//xd qu
 class PrestamosController extends Controller
 {
     public function index()
