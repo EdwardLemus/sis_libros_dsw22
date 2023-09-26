@@ -3,6 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <title>Formulario de préstamo</title>
+  <link rel="stylesheet" href="{!! asset('css/estilos.css') !!}">
+
 </head>
 <body>
     <h1>ya lacaga yordi</h1>
